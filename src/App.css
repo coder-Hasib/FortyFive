@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  background-color: rgb(48, 175, 184);
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 10px;
+}
+.container h4{
+  background-color:hsl(90, 100%, 49%);
+  padding: 10px;
+  border-radius: 8px;
+}
+.identity{
+  background-color: rgba(24, 24, 24, 0.692);
+  color:white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-weight: 700;
+
+}
+
+.aspirant{
+  background-color: rgb(48, 84, 184);
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 10px;
+  text-align: center;
+}
+.movie{
+  background-color: rgb(145, 82, 228);
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 10px;
+  text-align: center;
+}
